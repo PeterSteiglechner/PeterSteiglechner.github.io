@@ -8,26 +8,25 @@ ics at ODCD 2023, Bremen, Germany
 - [[poster]](https://meetingorganizer.copernicus.org/EGU2019/EGU2019-502.pdf) `Nuclear power to tackle climate change? Anthropogenic Heat Flux (AHF) -A Direct Climate Forcing' at EGU General Assembly 2019 in Vienna, Austria
 - [[poster]](https://www.dpg-verhandlungen.de/year/2019/conference/muenchen/part/up/session/10/contribution/1) `Potential post-greenhouse gas warming? Anthropogenic Heat Flux' at DPG Frühjahrstagung 2019 (Environmental Physics Section) in Munich, Germany
 
-## Visits
 
 ## Public Outreach
 
-#### Opinion dynamics and computational social science:
+### Opinion dynamics and mathematical modelling of social phenomena
 
-- Science goes PUBlic
+-  [Science goes PUBlic](https://www.sciencegoespublic.de/programm/meinungsbilder-mit-mathe-erkunden.388): Talk for the general public about modelling of social phenomena in a local pub, organised by the city of Bremen
 
-- Book a Scientist
+- [Book a Scientist](https://www.leibniz-gemeinschaft.de/ueber-uns/neues/veranstaltungen/book-a-scientist): Speed-dating with scientists for the general public
 
-- Wissenschaft persönlich
+- [Wissenschaft persönlich](https://www.bremen.de/wissenschaft-persoenlich-peter-steiglechner): Interview
 
-- Haus der Wissenschaft
+- [Exhibition](https://www.hausderwissenschaft.de/In-den-Startloechern-der-Nachwuchs-in-Wissenschaft-Studium-und-Ausbildung-im-Land-Bremen.html) in the `house of science' (Haus der Wissenschaften in Bremen): Short video contribution to early-career science
 
 
+### The climate impact of anthropogenic waste heat
 
-#### The climate impact of anthropogenic waste heat
-
-- [[Twitter post]](https://twitter.com/rahmstorf/status/1605967891928596481) by Stefan Rahmstorf on the impact of anthropogenic waste heat on global warming (2022).
 
 - [[Radio interview]](https://www.deutschlandfunkkultur.de/deep-warming-erderhitzung-durch-abwaerme-dlf-kultur-651cc7f5-100.html) on deep warming (2023).
 
 - [[Blog article]](https://aeon.co/essays/theres-a-deeper-problem-hiding-beneath-global-warming) by Marc Buchanan (2023)
+
+- [[Twitter post]](https://twitter.com/rahmstorf/status/1605967891928596481) by Stefan Rahmstorf about my master thesis on the impact of anthropogenic waste heat on global warming (2022). 
