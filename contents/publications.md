@@ -1,8 +1,21 @@
 
-- *<strong><strong>Li, S.</strong></strong>, Yang, X., Cao, A., Wang, C., Liu, Y., Liu, Y., & Niu, Q. (2023). Seismogram Transformer: A generic deep learning backbone network for multiple earthquake monitoring tasks. arXiv preprint arXiv:2310.01037.* [[Paper]](https://arxiv.org/abs/2310.01037) [[Code]](https://github.com/senli1073/SeisT)
 
-- *Cao, A., Yang, X., Wang, C., <strong><strong>Li, S.</strong></strong>, Liu, Y., Dou, L. & Niu, Q. (2023). High-precision phase picking and automatic source locating method for seismicity in mines based on deep transfer learning.* [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+## Selected publications and non-peer reviewed work
 
-- *Cao, A., Liu, Y., Yang, X., <strong><strong>Li, S.</strong></strong>, Wang, C., Bai, X. & Liu, Y. (2022). Physical index and Data Fusion-Driven method for coal burst prediction in time sequence. Journal of China Coal Society.* [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- *<strong><strong>Steiglechner, P.</strong></strong>, Smaldino, P.E., Moser, D. & Merico, A. (2023) ‘Social identity bias and communication network clustering interact to shape patterns of opinion dynamics’, Journal of The Royal Society Interface, 20(209), p. 20230372.* [[Paper]](https://doi.org/10.1098/rsif.2023.0372) [[Code]](https://github.com/PeterSteiglechner/SI-in-OD)
 
-- *Yang, X., Yu, X., Zhang, C., <strong><strong>Li, S.</strong></strong>, & Niu, Q. (2021). MineGPS: battery-free localization base station for coal mine environment. IEEE Communications Letters.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9433550)
+- *<strong><strong>Steiglechner, P.</strong></strong> and Merico, A. (2022) ‘Spatio-temporal patterns of deforestation, settlement, and land use on easter island prior to European arrivals’, in V. Rull and C. Stevenson (eds) The prehistory of Rapa Nui (Easter Island): Towards an integrative interdisciplinary framework. Cham: Springer International Publishing, pp. 401–426.* [[Chapter]](https://doi.org/10.1007/978-3-030-91127-0_16)
+
+- [[Policy Briefing Paper]](https://www.imperial.ac.uk/grantham/publications/briefing-papers/novel-policy-tools-to-assess-the-environmental-impacts-of-air-pollutants---grantham-briefing-note-5.php) on ‘Novel policy tools to assess the environmental impacts of air pollutants’ (2016) with Apostolos Voulgarakis and Alyssa Gilbert at Imperial College London and Grantham Institute
+
+
+## Contributions to Papers
+
+- *Moser, D., <strong><strong>Steiglechner, P.</strong></strong> and Schlueter, A. (2022) ‘Facing global environmental change: The role of culturally embedded cognitive biases’, Environmental Development, 44, p. 100735.* [[Paper]](https://doi.org/10.1016/j.envdev.2022.100735)
+
+## Theses
+
+- [[M.Sc. thesis]](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-277730) in socio-economic modelling titled ‘A spatially explicit agent-based model of human-resource interaction on Easter Island’ (2020) with Agostino Merico at ZMT Bremen and KTH Stockholm
+
+- [[M.Sc. thesis]](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-277730) in climate modelling titled ‘Estimating global warming from anthropogenic heat emissions – conceptual and numerical modelling approaches’ (2018) with Georg Feulner and Maria A. Martin at Potsdam Institute for Climate Impact Research (PIK)
+
