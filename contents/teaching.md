@@ -1,4 +1,4 @@
-## Teaching 
+## University courses 
 
 <p>&nbsp;</p>
 
