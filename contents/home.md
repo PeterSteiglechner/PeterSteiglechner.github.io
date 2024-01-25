@@ -5,12 +5,12 @@ Why do people continue to disagree on contentious political issues like climate 
 
 ### Education
 
-|  |   | institutions  | description  | collaborators  |
+|  |   |   |   |   |
 |---|---|---|---|---|
-| Ph.D.  |  2020 – | [ZMT Bremen](https://www.leibniz-zmt.de/en/) and [Constructor University](https://constructor.university/)  |  <strong><strong>How cognitive biases shape opinion patterns<strong><strong> (project [SEATRAC](https://www.leibniz-zmt.de/en/research/research-projects/seatrac.html)) | Agostino Merico, Paul E. Smaldino, Marijn Keijzer, Deyshawn Moser,  Achim Schlüter |
-|  Master of Science |  2018 – 2020 |  [TU Berlin](https://www.tu.berlin/), [KTH Stockholm](https://www.kth.se/en/) | <strong><strong>Computer Simulations in Science and Engineering<strong><strong> ([COSSE](https://www.kth.se/en/studies/master/computer-simulations-for-science-and-engineering/msc-computer-simulations-for-science-and-engineering-1.44243), double degree)  |    |
-|  Master of Science |  2017 – 2018  | [University of Potsdam](https://www.uni-potsdam.de/de/) and [PIK](https://www.pik-potsdam.de/en) |  <strong><strong>(Climate) Physics<strong><strong>  |  Georg Feulner, Maria A. Martin  |
-| Bachelor of Science | 2012 – 2016 | [FAU Erlangen](https://fau.de) (and [Imperial College London](https://www.imperial.ac.uk/)) |  <strong><strong>Physics<strong><strong>  | Uli Katz, Apostolos Voulgarakis | 
+| Ph.D.  |  2020 – | [ZMT Bremen](https://www.leibniz-zmt.de/en/) and \\ [Constructor University](https://constructor.university/)  |  <strong><strong>The role of cognitive biases in shaping opinion patterns<strong><strong> \\(project [SEATRAC](https://www.leibniz-zmt.de/en/research/research-projects/seatrac.html)) | Agostino Merico, Paul E. Smaldino, Marijn Keijzer, Deyshawn Moser,  Achim Schlüter |
+|  Master of Science |  2018 – 2020 |  [TU Berlin](https://www.tu.berlin/) and \\ [KTH Stockholm](https://www.kth.se/en/) | <strong><strong>Computer Simulations in Science and Engineering<strong><strong> ([COSSE](https://www.kth.se/en/studies/master/computer-simulations-for-science-and-engineering/msc-computer-simulations-for-science-and-engineering-1.44243), double degree)  |    |
+|  Master of Science |  2017 – 2018  | [University of Potsdam](https://www.uni-potsdam.de/de/) and \\ [PIK](https://www.pik-potsdam.de/en) |  <strong><strong>(Climate) Physics<strong><strong>  |  Georg Feulner, Maria A. Martin  |
+| Bachelor of Science | 2012 – 2016 | [FAU Erlangen](https://fau.de) \\ (and [Imperial College London](https://www.imperial.ac.uk/)) |  <strong><strong>Physics<strong><strong>  | Uli Katz, Apostolos Voulgarakis | 
 
 <p>&nbsp;</p>
 
