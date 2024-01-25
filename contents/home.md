@@ -30,7 +30,7 @@ Why do people continue to disagree on contentious political issues like climate 
 
 #### Contact
 
-- Email: peter.steiglechner[at]gmail.com
+- <a href="mailto:peter.steiglechner@gmail.com">Email: peter.steiglechner@gmail.com</a>
 - [Github](https://github.com/PeterSteiglechner)
 - [Research Gate](https://www.researchgate.net/profile/Peter-Steiglechner)
 - [Orcid: 0000-0002-1937-5983](https://orcid.org/0000-0002-1937-5983)

@@ -19,7 +19,7 @@
 
 <p>&nbsp;</p>
 
-- [[Policy Briefing Paper]](https://www.imperial.ac.uk/grantham/publications/briefing-papers/novel-policy-tools-to-assess-the-environmental-impacts-of-air-pollutants---grantham-briefing-note-5.php) *on ‘Novel policy tools to assess the environmental impacts of air pollutants’ (2016) with Apostolos Voulgarakis and Alyssa Gilbert at Imperial College London and Grantham Institute*
+- [[Policy Briefing Paper]](https://www.imperial.ac.uk/grantham/publications/briefing-papers/novel-policy-tools-to-assess-the-environmental-impacts-of-air-pollutants---grantham-briefing-note-5.php) on *‘Novel policy tools to assess the environmental impacts of air pollutants’ (2016)* with Apostolos Voulgarakis and Alyssa Gilbert at Imperial College London and Grantham Institute
 
 
 <p>&nbsp;&nbsp;</p>
@@ -38,8 +38,8 @@
 <p>&nbsp;</p>
 
 
-- [[M.Sc. thesis]](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-277730) *in socio-economic modelling titled ‘A spatially explicit agent-based model of human-resource interaction on Easter Island’ (2020) with Agostino Merico at ZMT Bremen and KTH Stockholm*
+- [[M.Sc. thesis]](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-277730) in socio-economic modelling titled *‘A spatially explicit agent-based model of human-resource interaction on Easter Island’ (2020)* with Agostino Merico at ZMT Bremen and KTH Stockholm
 
-- [[M.Sc. thesis]](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-277730) *in climate modelling titled ‘Estimating global warming from anthropogenic heat emissions – conceptual and numerical modelling approaches’ (2018) with Georg Feulner and Maria A. Martin at Potsdam Institute for Climate Impact Research (PIK)*
+- [[M.Sc. thesis]](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-277730) in climate modelling titled *‘Estimating global warming from anthropogenic heat emissions – conceptual and numerical modelling approaches’ (2018)* with Georg Feulner and Maria A. Martin at Potsdam Institute for Climate Impact Research (PIK)
 
 <p>&nbsp;&nbsp;</p>
