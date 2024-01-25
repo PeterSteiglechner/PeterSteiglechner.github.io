@@ -2,7 +2,7 @@
 
 ## Selected publications
 
-- Preprint: *<strong><strong>Steiglechner, P.</strong></strong>, Keijzer, M.A., Smaldino, P.E., Moser, D. & Merico, A. (2023) ‘Noise and opinion dynamics: How ambiguity promotes pro-majority consensus in the presence of confirmation bias’. SocArXiv. [[Preprint]](https://doi.org/10.31235/osf.io/u2t7r)
+- Preprint: *<strong><strong>Steiglechner, P.</strong></strong>, Keijzer, M.A., Smaldino, P.E., Moser, D. & Merico, A. (2023) ‘Noise and opinion dynamics: How ambiguity promotes pro-majority consensus in the presence of confirmation bias’. SocArXiv.* [[Preprint]](https://doi.org/10.31235/osf.io/u2t7r)
  
 - *<strong><strong>Steiglechner, P.</strong></strong>, Smaldino, P.E., Moser, D. & Merico, A. (2023) ‘Social identity bias and communication network clustering interact to shape patterns of opinion dynamics’, Journal of The Royal Society Interface, 20(209), p. 20230372.* [[Paper]](https://doi.org/10.1098/rsif.2023.0372) [[Code]](https://github.com/PeterSteiglechner/SI-in-OD)
 

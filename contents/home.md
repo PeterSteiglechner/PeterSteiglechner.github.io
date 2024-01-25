@@ -7,13 +7,22 @@ Why do human societies persist to disagree on political topics like climate chan
 peter.steiglechner[at]gmail.com
 
 #### Education
-| what | time  | institutions  | description  | people  |
+
+
+|  |   | institutions  | description  | people  |
 |---|---|---|---|---|
-| PhD  |  started Jun 2020 | Leibniz Centre for Tropical Marine Research (ZMT) Bremen and Constructor University  |  project seatrac; research area: the role of cognitive biases in the formation of public opinion patterns | Agostino Merico, Paul E. Smaldino, Marijn Keijzer, Deyshawn Moser,  Achim Schlüter |
-|  M.Sc. |  Oct 2018 -- Jun 2020 |  TU Berlin, KTH Stockholm (double-degree) | Computer Simulations in Science and Engineering (COSSE)  |    |
-|  M.Sc. |  Jan 2017 -- Oct 2018  | University of Potsdam and Potsdam Institute for Climate Impact Research (PIK) |  (Climate) Physics  |  Georg Feulner, Maria A. Martin  |
-| B.Sc. | Oct 2012 -- Dec 2016 | FAU Erlangen (and Imperial College London) |  Physics  | Uli Katz, Apostolos Voulgarakis | 
+| Ph.D.  |  Jun 2020 – | Leibniz Centre for Tropical Marine Research (ZMT) Bremen and Constructor University  |  project SEATRAC; The role of cognitive biases in the formation of public opinion patterns | Agostino Merico, Paul E. Smaldino, Marijn Keijzer, Deyshawn Moser,  Achim Schlüter |
+|  Master of Science |  Oct 2018 – Jun 2020 |  TU Berlin, KTH Stockholm (double-degree) | Computer Simulations in Science and Engineering (COSSE)  |    |
+|  Master of Science |  Jan 2017 – Oct 2018  | University of Potsdam and Potsdam Institute for Climate Impact Research (PIK) |  (Climate) Physics  |  Georg Feulner, Maria A. Martin  |
+| Bachelor of Science | Oct 2012 – Dec 2016 | FAU Erlangen (and Imperial College London) |  Physics  | Uli Katz, Apostolos Voulgarakis | 
 
 
-#### Research Intersts
-Complex Systems, Computational Social Science, Opinion Dynamics, Mathematical Modelling, Science Communication, Climate Change
+
+#### Research Interests
+
+- Complex Systems, 
+- Computational Social Science, 
+- Opinion Dynamics, 
+- Mathematical Modelling, 
+- Science Communication,
+- Climate Change
