@@ -29,7 +29,7 @@ Why do people continue to disagree on contentious political issues like climate 
 | Bachelor of Science | 2012–2016 | [FAU Erlangen](https://fau.de) <br> (and [Imperial College London](https://www.imperial.ac.uk/)) |  <em>Physics</em>  | Uli Katz, Apostolos Voulgarakis | 
 
 
- <img src="static/assets/img/myWorld.png" alt="">
+ <img src="static/assets/img/myWorld.png" alt="" width="500" height="666">
 
 <p>&nbsp;</p>
 
