@@ -28,6 +28,9 @@ Why do people continue to disagree on contentious political issues like climate 
 |  Master of Science |  2017–2018  | [University of Potsdam](https://www.uni-potsdam.de/de/) and <br> [PIK](https://www.pik-potsdam.de/en) |  <em>(Climate) Physics</em>  |  Georg Feulner, Maria A. Martin  |
 | Bachelor of Science | 2012–2016 | [FAU Erlangen](https://fau.de) <br> (and [Imperial College London](https://www.imperial.ac.uk/)) |  <em>Physics</em>  | Uli Katz, Apostolos Voulgarakis | 
 
+
+ <img src="static/assets/img/myWorld.png" alt="">
+
 <p>&nbsp;</p>
 
 #### Contact
