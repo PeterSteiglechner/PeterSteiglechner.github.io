@@ -33,7 +33,7 @@ Why do people continue to disagree on contentious political issues like climate 
   <tr>
     <td class="col10">Ph.D.</td>
     <td class="col10">2020–</td>
-    <td class="col30"><img src="static/assets/img/logos/ZMT.png" alt="ZMT Bremen" style="height:90px;margin: 30px 30px 30px 30px;" align="left"> & <img src="static/assets/img/logos/constructor.png" alt="Constructor University Bremen" style="height:90px;margin: 30px 30px 30px 30px;"></td>
+    <td class="col30"><img src="static/assets/img/logos/ZMT.png" alt="ZMT Bremen" style="height:90px;margin: 30px 30px 30px 30px;" align="left"> & <img src="static/assets/img/logos/constructor.png" alt="Constructor University Bremen" style="height:50px;margin: 30px 30px 30px 30px;"></td>
     <td class="col30"><em>The role of cognitive biases in shaping opinion patterns</em> <br>(project <a href="https://www.leibniz-zmt.de/en/research/research-projects/seatrac.html">SEATRAC</a>)</td>
     <td class="col20">Agostino Merico, Paul E. Smaldino, Marijn Keijzer, Deyshawn Moser, Achim Schlüter</td>
   </tr>
@@ -47,14 +47,14 @@ Why do people continue to disagree on contentious political issues like climate 
   <tr>
     <td class="col10">Master of Science</td>
     <td class="col10">2017–2018</td>
-    <td class="col30"><img src="static/assets/img/logos/unipotsdam.png" alt="University Potsdam" style="height:90px;margin: 30px 30px 30px 30px;" align="left"> & <img src="static/assets/img/logos/pik.png" alt="Potsdam Institute for Climate Impact Research (PIK)" style="height:90px;margin: 30px 30px 30px 30px"></td>
+    <td class="col30"><img src="static/assets/img/logos/unipotsdam.png" alt="University Potsdam" style="height:90px;margin: 30px 30px 30px 30px;" align="left"> & <img src="static/assets/img/logos/pik.png" alt="Potsdam Institute for Climate Impact Research (PIK)" style="height:50px;margin: 30px 30px 30px 30px"></td>
     <td class="col30"><em>(Climate) Physics</em></td>
     <td class="col20">Georg Feulner, Maria A. Martin</td>
   </tr>
   <tr>
     <td class="col10">Bachelor of Science</td>
     <td class="col10">2012–2016</td>
-    <td class="col30"><img src="static/assets/img/logos/FAU.png" alt="FAU Erlangen-Nuremberg" style="height:90px;margin: 30px 30px 30px 30px;" align="left"> & <img src="static/assets/img/logos/imperial.png" alt="Imperial college London" style="height:90px;margin: 30px 30px 30px 30px;"></td>
+    <td class="col30"><img src="static/assets/img/logos/FAU.png" alt="FAU Erlangen-Nuremberg" style="height:90px;margin: 30px 30px 30px 30px;" align="left"> & <img src="static/assets/img/logos/imperial.png" alt="Imperial college London" style="height:50px;margin: 30px 30px 30px 30px;"></td>
     <td class="col30"><em>Physics</em></td>
     <td class="col20">Uli Katz, Apostolos Voulgarakis</td>
   </tr>
@@ -63,7 +63,7 @@ Why do people continue to disagree on contentious political issues like climate 
 
 
 
- <img src="static/assets/img/myWorld.png" alt="">
+ <img src="static/assets/img/myWorld.png" alt=""  style="height:300px;margin: 0px 0px 0px 0px" align="center">
 
 <p>&nbsp;</p>
 
