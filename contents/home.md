@@ -47,14 +47,14 @@ Why do people continue to disagree on contentious political issues like climate 
   <tr>
     <td class="col10">Master of Science</td>
     <td class="col10">2017–2018</td>
-    <td class="col30"><img src="static/assets/img/logos/unipotsdam.png" alt="University Potsdam"> and <br> <img src="static/assets/img/logos/pik.png" alt="Potsdam Institute for Climate Impact Research (PIK)"></td>
+    <td class="col30"><img src="static/assets/img/logos/unipotsdam.png" alt="University Potsdam"> & <img src="static/assets/img/logos/pik.png" alt="Potsdam Institute for Climate Impact Research (PIK)"></td>
     <td class="col30"><em>(Climate) Physics</em></td>
     <td class="col20">Georg Feulner, Maria A. Martin</td>
   </tr>
   <tr>
     <td class="col10">Bachelor of Science</td>
     <td class="col10">2012–2016</td>
-    <td class="col30"><img src="static/assets/img/logos/FAU.png" alt="FAU Erlangen-Nuremberg"> and <br> <img src="static/assets/img/logos/imperial.png" alt="Imperial college London"></td>
+    <td class="col30"><img src="static/assets/img/logos/FAU.png" alt="FAU Erlangen-Nuremberg"> & <img src="static/assets/img/logos/imperial.png" alt="Imperial college London"></td>
     <td class="col30"><em>Physics</em></td>
     <td class="col20">Uli Katz, Apostolos Voulgarakis</td>
   </tr>
