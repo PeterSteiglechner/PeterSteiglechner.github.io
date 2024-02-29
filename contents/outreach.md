@@ -16,6 +16,10 @@ On opinion dynamics and mathematical modelling of social phenomena:
 -  [Science goes PUBlic](https://www.sciencegoespublic.de/programm/meinungsbilder-mit-mathe-erkunden.388): Talk for the general public about modelling of social phenomena in a local pub, organised by the city of Bremen
 - [Book a Scientist](https://www.leibniz-gemeinschaft.de/ueber-uns/neues/veranstaltungen/book-a-scientist): Speed-dating between scientists and the general public
 - [Wissenschaft persönlich](https://www.bremen.de/wissenschaft-persoenlich-peter-steiglechner): Interview
+- [Interview](https://www.youtube.com/watch?v=o4uRooUWwes): Short video introduction at ZMT as part of a series by the `House of science' (Haus der Wissenschaft) Bremen on local early career scientists. 
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/o4uRooUWwes">
+</iframe> 
 
 <p>&nbsp;</p>
 
