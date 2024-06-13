@@ -23,7 +23,7 @@ Why do people continue to disagree on contentious political issues like climate 
 <!-- 
 |  |   |   |   |   |
 |---|---|---|---|---|
-| Ph.D.  |  2020– | [ZMT Bremen](https://www.leibniz-zmt.de/en/) and <br> [Constructor University](https://constructor.university/)  |  <em>The role of cognitive biases in shaping opinion patterns</em> <br>(project [SEATRAC](https://www.leibniz-zmt.de/en/research/research-projects/seatrac.html)) | Agostino Merico, Paul E. Smaldino, Marijn Keijzer, Deyshawn Moser,  Achim Schlüter |
+| Ph.D.  |  2020–2024 | [ZMT Bremen](https://www.leibniz-zmt.de/en/) and <br> [Constructor University](https://constructor.university/)  |  <em>The complex effects of distorted social perceptions on opinions about climate change</em> | Agostino Merico, Paul E. Smaldino, Marijn Keijzer, Deyshawn Moser,  Achim Schlüter |
 |  Master of Science |  2018–2020 |  [TU Berlin](https://www.tu.berlin/) and <br> [KTH Stockholm](https://www.kth.se/en/) | <em>Computer Simulations in Science and Engineering</em> ([COSSE](https://www.kth.se/en/studies/master/computer-simulations-for-science-and-engineering/msc-computer-simulations-for-science-and-engineering-1.44243))  |    |
 |  Master of Science |  2017–2018  | [University of Potsdam](https://www.uni-potsdam.de/de/) and <br> [PIK](https://www.pik-potsdam.de/en) |  <em>(Climate) Physics</em>  |  Georg Feulner, Maria A. Martin  |
 | Bachelor of Science | 2012–2016 | [FAU Erlangen](https://fau.de) <br> (and [Imperial College London](https://www.imperial.ac.uk/)) |  <em>Physics</em>  | Uli Katz, Apostolos Voulgarakis |  
@@ -34,7 +34,7 @@ Why do people continue to disagree on contentious political issues like climate 
     <td class="col10">Ph.D.</td>
     <td class="col20">2020–</td>
     <td class="col30"><img src="static/assets/img/logos/ZMT.png" alt="ZMT Bremen" style="height:70px;margin: 0px 20px 0px 20px;" align="left"> & <img src="static/assets/img/logos/constructor.png" alt="Constructor University Bremen" style="height:40px;margin: 0px 20px 0px 20px;"></td>
-    <td class="col20"><em>The role of cognitive biases in shaping opinion patterns</em> <br>(project <a href="https://www.leibniz-zmt.de/en/research/research-projects/seatrac.html">SEATRAC</a>)</td>
+    <td class="col20"><em>The complex effects of distorted social </em><br><em>perceptions on opinions about climate change</em></td>
     <td class="col20">Agostino Merico, Paul E. Smaldino, Marijn Keijzer, Deyshawn Moser, Achim Schlüter</td>
   </tr>
   <tr>
