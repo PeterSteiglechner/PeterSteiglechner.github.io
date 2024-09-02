@@ -38,7 +38,7 @@ Previously, I have focussed on cognitive biases and their impact on opinion form
     <td class="col15">2020–2024</td>
     <td class="col35"><img src="static/assets/img/logos/ZMT.png" alt="ZMT Bremen" style="height:70px;margin: 0px 20px 0px 20px;" align="left"> & <img src="static/assets/img/logos/constructor.png" alt="Constructor University Bremen" style="height:40px;margin: 0px 20px 0px 20px;"></td>
     <td class="col20"><em>The Complex Effects of Distorted Social
-Perceptions on Opinions about Climate Change</em> <a href="static/pdfs/phd20240530_steiglechner">[Thesis]</a></td>
+Perceptions on Opinions about Climate Change</em> <a href="static/pdfs/phd-thesis_steiglechner_published.pdf">[Thesis]</a></td>
     <td class="col20">Agostino Merico, Paul E. Smaldino, Marijn Keijzer, Deyshawn Moser, Achim Schlüter</td>
   </tr>
   <tr>

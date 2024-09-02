@@ -36,10 +36,10 @@
 
 ### Theses
 
-- <a href="static/pdfs/PhD-thesis_PeterSteiglechner_June2024.pdf" type="application/pdf">[PhD thesis]</a> titled ‘The complex effects of distorted social perceptions on opinions about climate change’ (2024)* with Agostino Merico at Constructor University Bremen
+- <a href="static/pdfs/phd-thesis_steiglechner_published.pdf" type="application/pdf">[PhD thesis]</a> titled *`The complex effects of distorted social perceptions on opinions about climate change’ (2024)* with Agostino Merico at Constructor University Bremen
 
-- [[M.Sc. thesis]](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-277730) in socio-economic modelling titled *‘A spatially explicit agent-based model of human-resource interaction on Easter Island’ (2020)* with Agostino Merico at ZMT Bremen and KTH Stockholm
+- [[M.Sc. thesis]](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-277730) in socio-economic modelling titled *`A spatially explicit agent-based model of human-resource interaction on Easter Island' (2020)* with Agostino Merico at ZMT Bremen and KTH Stockholm
 
-- [[M.Sc. thesis]](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-277730) in climate modelling titled *‘Estimating global warming from anthropogenic heat emissions – conceptual and numerical modelling approaches’ (2018)* with Georg Feulner and Maria A. Martin at Potsdam Institute for Climate Impact Research (PIK)
+- [[M.Sc. thesis]](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-277730) in climate modelling titled *`Estimating global warming from anthropogenic heat emissions – conceptual and numerical modelling approaches' (2018)* with Georg Feulner and Maria A. Martin at Potsdam Institute for Climate Impact Research (PIK)
 
 <p>&nbsp;</p>
