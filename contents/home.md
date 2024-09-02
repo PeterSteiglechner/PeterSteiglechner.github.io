@@ -1,8 +1,12 @@
 
-Why do people continue to disagree on contentious political issues like climate change, despite ample scientific evidence and years of public discussion? In my research, I explore how social influence shapes opinions of individuals and how such processes aggregate to opinion patterns in society using mathematical modelling. I focus on understanding cognitive biases and their role in opinion formation on an individual and collective level, whether fostering polarisation or supporting the persistence of minority views. For example, social identity biases can drive polarisation. However, surprisingly, I find that biases can sometimes foster consensus in certain circumstances and may help us to overcome polarisation on climate change. Their impact varies based on factors like influence networks, ambiguities in communication, and perceptions of others' opinions subject to social identities. 
+Why do people continue to disagree on contentious political issues, such as climate change or vaccination despite a sound scientific foundation? In my research, I use mathematical modelling and data science tools to explore how social influence shapes opinions of individuals and how such dynamics aggregate to opinion patterns, such as disagreement, consensus, persistent minority clusters, or (perceived) polarisation, as well as social structures, such as the emergence of echo chambers or filter bubbles. 
+
+At the moment, my focus lies on belief systems and the way they determine what opinions we consider coherent. This can vary greatly across society and it evolves significantly over time. Importantly, belief systems are social constructs and as such shaped by social identity and peers. My goal is to better understand the different belief systems and estimate how much this can influence our perceptions of a polarised society.
+
+Previously, I have focussed on cognitive biases and their impact on opinion formation under social influence. For example, social identity biases can drive polarisation. However, surprisingly, biases can sometimes also help to reach consensus and overcome disagreement under certain conditions. Their impact varies based on factors like interaction networks, ambiguities in communication, and perceptions of others' opinions subject to social identities. 
 
 
-<a href="static/pdfs/CV_PeterSteiglechner.pdf" type="application/pdf">Current CV (last updated April 2023)</a>
+<a href="static/pdfs/CV_PeterSteiglechner.pdf" type="application/pdf">Current CV (last updated September 2024)</a>
 
 <p>&nbsp;</p>
 
@@ -10,6 +14,7 @@ Why do people continue to disagree on contentious political issues like climate 
 
 - Complex Systems 
 - Computational Social Science 
+- Belief Systems
 - Opinion Dynamics 
 - Mathematical Modelling and Agent-Based Simulation
 - Science Communication
@@ -20,21 +25,21 @@ Why do people continue to disagree on contentious political issues like climate 
 
 ### Education
 
-<!-- 
-|  |   |   |   |   |
-|---|---|---|---|---|
-| Ph.D.  |  2020– | [ZMT Bremen](https://www.leibniz-zmt.de/en/) and <br> [Constructor University](https://constructor.university/)  |  <em>The role of cognitive biases in shaping opinion patterns</em> <br>(project [SEATRAC](https://www.leibniz-zmt.de/en/research/research-projects/seatrac.html)) | Agostino Merico, Paul E. Smaldino, Marijn Keijzer, Deyshawn Moser,  Achim Schlüter |
-|  Master of Science |  2018–2020 |  [TU Berlin](https://www.tu.berlin/) and <br> [KTH Stockholm](https://www.kth.se/en/) | <em>Computer Simulations in Science and Engineering</em> ([COSSE](https://www.kth.se/en/studies/master/computer-simulations-for-science-and-engineering/msc-computer-simulations-for-science-and-engineering-1.44243))  |    |
-|  Master of Science |  2017–2018  | [University of Potsdam](https://www.uni-potsdam.de/de/) and <br> [PIK](https://www.pik-potsdam.de/en) |  <em>(Climate) Physics</em>  |  Georg Feulner, Maria A. Martin  |
-| Bachelor of Science | 2012–2016 | [FAU Erlangen](https://fau.de) <br> (and [Imperial College London](https://www.imperial.ac.uk/)) |  <em>Physics</em>  | Uli Katz, Apostolos Voulgarakis |  
--->
 
 <table>
   <tr>
+    <td class="col10">PostDoc</td>
+    <td class="col20">2024–</td>
+    <td class="col30"><img src="static/assets/img/logos/logos-csh.png" alt="Complexity Science Hub Vienna" style="height:70px;margin: 0px 20px 0px 20px;" align="left"></td>
+    <td class="col20"><em>Belief networks</em> </td>
+    <td class="col20">Mirta Galesic, Henrik Olsson</td>
+  </tr>
+    <tr>
     <td class="col10">Ph.D.</td>
-    <td class="col20">2020–</td>
+    <td class="col20">2020–2024</td>
     <td class="col30"><img src="static/assets/img/logos/ZMT.png" alt="ZMT Bremen" style="height:70px;margin: 0px 20px 0px 20px;" align="left"> & <img src="static/assets/img/logos/constructor.png" alt="Constructor University Bremen" style="height:40px;margin: 0px 20px 0px 20px;"></td>
-    <td class="col20"><em>The role of cognitive biases in shaping opinion patterns</em> <br>(project <a href="https://www.leibniz-zmt.de/en/research/research-projects/seatrac.html">SEATRAC</a>)</td>
+    <td class="col20"><em>The Complex Effects of Distorted Social
+Perceptions on Opinions about Climate Change</em> <a href="static/pdfs/phd20240530_steiglechner">[Thesis]</a></td>
     <td class="col20">Agostino Merico, Paul E. Smaldino, Marijn Keijzer, Deyshawn Moser, Achim Schlüter</td>
   </tr>
   <tr>
