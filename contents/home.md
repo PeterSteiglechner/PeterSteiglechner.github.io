@@ -29,7 +29,7 @@ Previously, I have focussed on cognitive biases and their impact on opinion form
   <tr>
     <td class="col10">PostDoc</td>
     <td class="col15">2024–</td>
-    <td class="col35"><img src="static/assets/img/logos/logos-csh.png" alt="Complexity Science Hub Vienna" style="height:70px;margin: 0px 20px 0px 20px;" align="left"></td>
+    <td class="col35"><img src="static/assets/img/logos/logo-csh.png" alt="Complexity Science Hub Vienna" style="height:70px;margin: 0px 20px 0px 20px;" align="left"></td>
     <td class="col20"><em>Belief networks</em> </td>
     <td class="col20">Mirta Galesic, Henrik Olsson</td>
   </tr>
