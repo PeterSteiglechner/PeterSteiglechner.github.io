@@ -3,8 +3,8 @@
 ### Selected peer-reviewed publications
 
 
-- *<strong><strong>Steiglechner, P.</strong></strong>, Keijzer, M.A., Smaldino, P.E., Moser, D. & Merico, A. (in press) ‘Noise and opinion dynamics: How ambiguity promotes pro-majority consensus in the presence of confirmation bias’, Journal of the Royal Society Open Science.* [[Preprint]](https://doi.org/10.31235/osf.io/u2t7r)
- 
+- *<strong><strong>Steiglechner, P.</strong></strong>, Keijzer, M.A., Smaldino, P.E., Moser, D. & Merico, A. (2024) ‘Noise and opinion dynamics: How ambiguity promotes pro-majority consensus in the presence of confirmation bias’, Journal of the Royal Society Open Science, 11(4), p. 231071.* [[Paper]](https://doi.org/10.1098/rsos.231071)
+
 - *<strong><strong>Steiglechner, P.</strong></strong>, Smaldino, P.E., Moser, D. & Merico, A. (2023) ‘Social identity bias and communication network clustering interact to shape patterns of opinion dynamics’, Journal of The Royal Society Interface, 20(209), p. 20230372.* [[Paper]](https://doi.org/10.1098/rsif.2023.0372) [[Code]](https://github.com/PeterSteiglechner/SI-in-OD)
 
 <p>&nbsp;</p>
@@ -12,7 +12,7 @@
 
 ### Book Chapters
 
-- *<strong><strong>Steiglechner, P.</strong></strong> and Merico, A. (2022) ‘Spatio-temporal patterns of deforestation, settlement, and land use on easter island prior to European arrivals’, in V. Rull and C. Stevenson (eds) The prehistory of Rapa Nui (Easter Island): Towards an integrative interdisciplinary framework. Cham: Springer International Publishing, pp. 401–426.* [[Chapter]](https://doi.org/10.1007/978-3-030-91127-0_16) [[Code]](https://github.com/systemsecologygroup/EasterIslandABM)
+- *<strong><strong>Steiglechner, P.</strong></strong> and Merico, A. (2022) ‘Spatio-temporal patterns of deforestation, settlement, and land use on Easter Island prior to European arrivals’, in V. Rull and C. Stevenson (eds) The prehistory of Rapa Nui (Easter Island): Towards an integrative interdisciplinary framework. Cham: Springer International Publishing, pp. 401–426.* [[Chapter]](https://doi.org/10.1007/978-3-030-91127-0_16) [[Code]](https://github.com/systemsecologygroup/EasterIslandABM)
 
 <p>&nbsp;</p>
 
@@ -35,6 +35,8 @@
 <p>&nbsp;</p>
 
 ### Theses
+
+- <a href="static/pdfs/PhD-thesis_PeterSteiglechner_June2024.pdf" type="application/pdf">[PhD thesis]</a> titled ‘The complex effects of distorted social perceptions on opinions about climate change’ (2024)* with Agostino Merico at Constructor University Bremen
 
 - [[M.Sc. thesis]](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-277730) in socio-economic modelling titled *‘A spatially explicit agent-based model of human-resource interaction on Easter Island’ (2020)* with Agostino Merico at ZMT Bremen and KTH Stockholm
 

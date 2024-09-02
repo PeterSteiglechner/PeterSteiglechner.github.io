@@ -25,41 +25,40 @@ Previously, I have focussed on cognitive biases and their impact on opinion form
 
 ### Education
 
-
 <table>
   <tr>
     <td class="col10">PostDoc</td>
-    <td class="col20">2024–</td>
-    <td class="col30"><img src="static/assets/img/logos/logos-csh.png" alt="Complexity Science Hub Vienna" style="height:70px;margin: 0px 20px 0px 20px;" align="left"></td>
+    <td class="col15">2024–</td>
+    <td class="col35"><img src="static/assets/img/logos/logos-csh.png" alt="Complexity Science Hub Vienna" style="height:70px;margin: 0px 20px 0px 20px;" align="left"></td>
     <td class="col20"><em>Belief networks</em> </td>
     <td class="col20">Mirta Galesic, Henrik Olsson</td>
   </tr>
     <tr>
     <td class="col10">Ph.D.</td>
-    <td class="col20">2020–2024</td>
-    <td class="col30"><img src="static/assets/img/logos/ZMT.png" alt="ZMT Bremen" style="height:70px;margin: 0px 20px 0px 20px;" align="left"> & <img src="static/assets/img/logos/constructor.png" alt="Constructor University Bremen" style="height:40px;margin: 0px 20px 0px 20px;"></td>
+    <td class="col15">2020–2024</td>
+    <td class="col35"><img src="static/assets/img/logos/ZMT.png" alt="ZMT Bremen" style="height:70px;margin: 0px 20px 0px 20px;" align="left"> & <img src="static/assets/img/logos/constructor.png" alt="Constructor University Bremen" style="height:40px;margin: 0px 20px 0px 20px;"></td>
     <td class="col20"><em>The Complex Effects of Distorted Social
 Perceptions on Opinions about Climate Change</em> <a href="static/pdfs/phd20240530_steiglechner">[Thesis]</a></td>
     <td class="col20">Agostino Merico, Paul E. Smaldino, Marijn Keijzer, Deyshawn Moser, Achim Schlüter</td>
   </tr>
   <tr>
     <td class="col10">Master of Science</td>
-    <td class="col20">2018–2020</td>
-    <td class="col30"><img src="static/assets/img/logos/TUB.png" alt="TU Berlin" style="height:80px;margin: 0px 20px 0px 20px;" align="left"> & <img src="static/assets/img/logos/kth.png" alt="KTH Stockholm" style="height:90px;margin: 0px 20px 0px 20px;" ></td>
+    <td class="col15">2018–2020</td>
+    <td class="col35"><img src="static/assets/img/logos/TUB.png" alt="TU Berlin" style="height:80px;margin: 0px 20px 0px 20px;" align="left"> & <img src="static/assets/img/logos/kth.png" alt="KTH Stockholm" style="height:90px;margin: 0px 20px 0px 20px;" ></td>
     <td class="col20"><em>Computer Simulations in Science and Engineering</em> (<a href="https://www.kth.se/en/studies/master/computer-simulations-for-science-and-engineering/msc-computer-simulations-for-science-and-engineering-1.44243">COSSE</a>)</td>
     <td class="col20"></td>
   </tr>
   <tr>
     <td class="col10">Master of Science</td>
-    <td class="col20">2017–2018</td>
-    <td class="col30"><img src="static/assets/img/logos/unipotsdam.png" alt="University Potsdam" style="height:80px;margin: 0px 20px 0px 20px;" align="left"> & <img src="static/assets/img/logos/pik.png" alt="Potsdam Institute for Climate Impact Research (PIK)" style="height:70px;margin: 0px 20px 0px 20px"></td>
+    <td class="col15">2017–2018</td>
+    <td class="col35"><img src="static/assets/img/logos/unipotsdam.png" alt="University Potsdam" style="height:80px;margin: 0px 20px 0px 20px;" align="left"> & <img src="static/assets/img/logos/pik.png" alt="Potsdam Institute for Climate Impact Research (PIK)" style="height:70px;margin: 0px 20px 0px 20px"></td>
     <td class="col20"><em>(Climate) Physics</em></td>
     <td class="col20">Georg Feulner, Maria A. Martin</td>
   </tr>
   <tr>
     <td class="col10">Bachelor of Science</td>
-    <td class="col20">2012–2016</td>
-    <td class="col30"><img src="static/assets/img/logos/FAU.png" alt="FAU Erlangen-Nuremberg" style="height:80px;margin: 0px 20px 0px 20px;" align="left"> & <img src="static/assets/img/logos/imperial.png" alt="Imperial college London" style="height:50px;margin: 0px 20px 0px 20px;"></td>
+    <td class="col15">2012–2016</td>
+    <td class="col35"><img src="static/assets/img/logos/FAU.png" alt="FAU Erlangen-Nuremberg" style="height:80px;margin: 0px 20px 0px 20px;" align="left"> & <img src="static/assets/img/logos/imperial.png" alt="Imperial college London" style="height:50px;margin: 0px 20px 0px 20px;"></td>
     <td class="col20"><em>Physics</em></td>
     <td class="col20">Uli Katz, Apostolos Voulgarakis</td>
   </tr>
