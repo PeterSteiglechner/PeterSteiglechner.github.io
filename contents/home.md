@@ -1,12 +1,16 @@
 
-Why do people continue to disagree on contentious political issues, such as climate change or vaccination despite a sound scientific foundation? In my research, I use mathematical modelling and data science tools to explore how social influence shapes opinions of individuals and how such dynamics aggregate to opinion patterns, such as disagreement, consensus, persistent minority clusters, or (perceived) polarisation, as well as social structures, such as the emergence of echo chambers or filter bubbles. 
 
-At the moment, my focus lies on belief systems and the way they determine what opinions we consider coherent. This can vary greatly across society and it evolves significantly over time. Importantly, belief systems are social constructs and as such shaped by social identity and peers. My goal is to better understand the different belief systems and estimate how much this can influence our perceptions of a polarised society.
-
-Previously, I have focussed on cognitive biases and their impact on opinion formation under social influence. For example, social identity biases can drive polarisation. However, surprisingly, biases can sometimes also help to reach consensus and overcome disagreement under certain conditions. Their impact varies based on factors like interaction networks, ambiguities in communication, and perceptions of others' opinions subject to social identities. 
+There is no doubt that when it comes to political dynamics we live in exciting times. With daunting challenges lying ahead of us – climate change, geopolitical conflicts that drive migration movements, or the emergence of an excessively wealthy and powerful group of individuals – we see fascinating political socio-political trends. Polarisation in the general public seems to increase to unprecedented levels, affect-driven politics dominates the debate, and we observe a worrying acceptance of authoritarian politics. It seems timely to try to understand what forces drive and shape these dynamics. 
 
 
-<a href="static/pdfs/CV_PeterSteiglechner.pdf" type="application/pdf">Current CV (last updated September 2024)</a>
+My research concerns questions of societal opinion formation and perception. And I tackle these questions using mathematical modelling and data science. Models allow us to study the conditions under which opinions aggregate to disagreement or consensus, to persistent minority clusters or majority dominance, or to exaggerated perceptions of polarisation. Even more so, using models to explore such phenomena allows us not only to study what factors drives societal opinion patterns but also gives us possible explanations for how and why these factors might be relevant.
+
+At the moment, my research focus lies on belief systems and how such belief systems can induce feelings of coherence or dissonance when we encounter new information or evaluate our own opinions against those of others. Belief systems vary across individuals and they evolve over time, being shaped by social influence and an internal strive for coherence. My goal is to better understand how belief systems vary across society and how such differences may affect societal belief dynamics and our perceptions of such dynamics.
+
+Previously, I studied distorted perceptions due to cognitive biases and investigated how such biases affect opinion formation under social influence – often in non-obvious ways. For example, social identity biases can drive polarisation. However, quite unintuitively, biases on the individual level can, under certain conditions, also help to reach consensus and overcome disagreement on a collective level. The impact of cognitive biases on consensus and polarisation varies based on factors like the underlying network of interactions between individuals, the level of ambiguity in communication, and systematic distortions in the way people perceive the opinions of other individuals. 
+
+
+<a href="static/pdfs/CV_PeterSteiglechner.pdf" type="application/pdf">Current CV (last updated April 2025)</a>
 
 <p>&nbsp;</p>
 
