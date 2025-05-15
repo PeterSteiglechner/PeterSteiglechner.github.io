@@ -1,10 +1,3 @@
->
-> This project might turn into a mess, but it will be really interesting to see how
-> 
-> — a supervisor after a collective brainstorming session
->
-
-
 There is no doubt that when it comes to political dynamics we live in exciting times. With daunting challenges lying ahead of us – climate change, geopolitical conflicts that drive migration movements, or the emergence of an excessively wealthy and powerful group of individuals – we can observe fascinating (and sometimes frightening) political socio-political trends. Polarisation in the general public seems to increase to unprecedented levels, affect and identity dominate the political debate, and we observe a worrying acceptance of authoritarian politics. It seems timely to at least try to understand what forces drive and shape such dynamics. 
 
 My research concerns questions of societal opinion formation and perception. And I tackle these questions using mathematical modelling and data science. Models allow us to study the conditions under which opinions aggregate to consensus or disaggregate leading to stable states of disagreement, to persistent minority clusters or majority dominance, or to exaggerated perceptions of polarisation. Using models to explore such phenomena allows us not only to study what factors drives societal opinion patterns but also gives us possible explanations for how and why these factors might be relevant.
