@@ -27,8 +27,8 @@
 
 - *<strong><strong>Steiglechner, P.</strong></strong>, Poulsen, V.M., Olsson H., & Galesic M. (in preparation). 'Adaptive belief networks'.*
 - *<strong><strong>Steiglechner, P.</strong></strong>, Poulsen, V.M., Olsson H., & Galesic M. (in preparation). How we perceive opinions and evaluate political differences.*
-- *Batzke, M., *<strong><strong>Steiglechner, P.</strong></strong>, Lorenz, J., Edmonds, B., & Kalvas F~(submitted). From cognitive coherence to political polarization: An agent-based model of belief change.*
-- *Keijzer, M.A., Gelastopoulos, A., Jochim, A., Steinbrinker, L., *<strong><strong>Steiglechner, P.</strong></strong>, & Analytis, P.P. (in preparation). From preference to dominance: The reinforcing and regressing effects of social influence.*
+- *Batzke, M., <strong><strong>Steiglechner, P.</strong></strong>, Lorenz, J., Edmonds, B., & Kalvas F~(submitted). From cognitive coherence to political polarization: An agent-based model of belief change.*
+- *Keijzer, M.A., Gelastopoulos, A., Jochim, A., Steinbrinker, L., <strong><strong>Steiglechner, P.</strong></strong>, & Analytis, P.P. (in preparation). From preference to dominance: The reinforcing and regressing effects of social influence.*
 
 <!-- - *Poulsen, V.M., Barolo, D., *<strong><strong>Steiglechner, P.</strong></strong>, Olsson H., & Galesic M. (in preparation). Inferring individual belief systems from open-ended narratives.* -->
 
