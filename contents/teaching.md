@@ -2,9 +2,11 @@
 
 - <strong>Lecturer</strong> for `Data Science Tools in python' at Constructor University (2023)
 
-- <strong>Teaching Assistant</strong> for the course `Modelling and analysis of complex systems’ by Agostino Merico at Jacobs University (2020, 2022)
+- <strong>Teaching Assistant</strong> for the course `Modelling and analysis of complex systems’ by Agostino Merico at Constructor University (2020, 2022)
 
 - <strong>Guest lecture</strong> on an ‘Agent-based model of the Covid-19 pandemic’ (2020, 2022, 2023).
+
+- <strong>Guest lecture</strong> on an ‘Introduction to python for the Social Science’ (BIGSSS, 2024).
 
 - <strong>Teaching Assistant</strong> at a winter school on ‘Mathematical modelling of ecological and socioeconomic systems’ at the African Institute of Mathematical Sciences (AIMS) in Senegal (2020, 2022)
 

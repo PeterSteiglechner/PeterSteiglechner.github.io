@@ -12,13 +12,25 @@
 
 ### Book Chapters
 
-- *<strong><strong>Steiglechner, P.</strong></strong> and Merico, A. (2022) ‘Spatio-temporal patterns of deforestation, settlement, and land use on Easter Island prior to European arrivals’, in V. Rull and C. Stevenson (eds) The prehistory of Rapa Nui (Easter Island): Towards an integrative interdisciplinary framework. Cham: Springer International Publishing, pp. 401–426.* [[Chapter]](https://doi.org/10.1007/978-3-030-91127-0_16) [[Code]](https://github.com/systemsecologygroup/EasterIslandABM)
+- *<strong><strong>Steiglechner, P.</strong></strong>, & Merico, A. (2022) ‘Spatio-temporal patterns of deforestation, settlement, and land use on Easter Island prior to European arrivals’, in V. Rull and C. Stevenson (eds) The prehistory of Rapa Nui (Easter Island): Towards an integrative interdisciplinary framework. Cham: Springer International Publishing, pp. 401–426.* [[Chapter]](https://doi.org/10.1007/978-3-030-91127-0_16) [[Code]](https://github.com/systemsecologygroup/EasterIslandABM)
 
 <p>&nbsp;</p>
 
 
 
 ### Preprints
+- *<strong><strong>Steiglechner, P.</strong></strong>, Smaldino, P.E., & Merico, A. (2025). 'How opinion variation among in-groups can skew perceptions of ideological polarization'.* [[Preprint]](https://doi.org/10.31235/osf.io/yau9s). 
+
+<p>&nbsp;</p>
+
+### In preparation / Ongoing work
+
+- *<strong><strong>Steiglechner, P.</strong></strong>, Poulsen, V.M., Olsson H., & Galesic M. (in preparation). 'Adaptive belief networks'.*
+- *<strong><strong>Steiglechner, P.</strong></strong>, Poulsen, V.M., Olsson H., & Galesic M. (in preparation). How we perceive opinions and evaluate political differences.*
+- *Batzke, M., *<strong><strong>Steiglechner, P.</strong></strong>, Lorenz, J., Edmonds, B., & Kalvas F~(submitted). From cognitive coherence to political polarization: An agent-based model of belief change.*
+- *Keijzer, M.A., Gelastopoulos, A., Jochim, A., Steinbrinker, L., *<strong><strong>Steiglechner, P.</strong></strong>, & Analytis, P.P. (in preparation). From preference to dominance: The reinforcing and regressing effects of social influence.*
+
+<!-- - *Poulsen, V.M., Barolo, D., *<strong><strong>Steiglechner, P.</strong></strong>, Olsson H., & Galesic M. (in preparation). Inferring individual belief systems from open-ended narratives.* -->
 
 
 <p>&nbsp;</p>
