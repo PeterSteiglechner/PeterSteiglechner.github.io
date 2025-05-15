@@ -1,4 +1,11 @@
 
+<div>
+  <blockquote>
+    <p>This project might turn into a mess, but it will be really interesting to see how</p>
+    <br></br>
+    <p>— a supervisor after a collective brainstorming session</p>
+  </blockquote>
+</div>
 
 There is no doubt that when it comes to political dynamics we live in exciting times. With daunting challenges lying ahead of us – climate change, geopolitical conflicts that drive migration movements, or the emergence of an excessively wealthy and powerful group of individuals – we can observe fascinating (and sometimes frightening) political socio-political trends. Polarisation in the general public seems to increase to unprecedented levels, affect and identity dominate the political debate, and we observe a worrying acceptance of authoritarian politics. It seems timely to at least try to understand what forces drive and shape such dynamics. 
 
