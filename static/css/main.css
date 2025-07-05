@@ -296,3 +296,10 @@ th, td {
   html {
     scroll-behavior: smooth;
   }
+
+
+.image-right {
+    float: right;
+    margin-left: 20px;
+    width: 300px; /* Adjust width as needed */
+  }
